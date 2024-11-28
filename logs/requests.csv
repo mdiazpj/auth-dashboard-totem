@@ -1,0 +1,2 @@
+Timestamp;Method;Endpoint;RequestData
+2024-11-28T19:20:54.727Z;DELETE;Método para borrar una categoría;"{""category"":{""id"":""a4116e1d-1cb7-4e62-8131-fdd54c137463"",""title"":""asdasd""},""user"":{""user"":""Admin"",""userId"":1,""roles"":""ADMIN""}}"
